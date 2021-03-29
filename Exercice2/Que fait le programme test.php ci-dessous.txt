@@ -1,0 +1,1 @@
+Le programme calcul les valeurs "a" et "b" en carré et de les additionner puis afficher le mot "Bonjour".
